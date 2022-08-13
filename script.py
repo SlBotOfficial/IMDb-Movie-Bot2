@@ -1,7 +1,7 @@
 class Script(object):
     START_TXT = """Hello {},
 
-My name is <a href=https://t.me/{}>{}</a>!
+My name is  <a href=https://t.me/sl_mahima_official>SMO - Movie Bot</a>!
 
 <b>I can provide Movies. A Telegram Auto Filter Bot. Its Easy To Use Me :)
 
@@ -12,7 +12,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 <b>Here Is The Help For My Commands.</b>"""
 
     ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: <a href='https://t.me/lasiya_1'>Zaute Km</a>
+➥ Creator: <a href='#'>Zaute Km</a>
 ➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 ➥ Language: Python 𝟹
 ➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
@@ -24,10 +24,10 @@ IMDb is a Open source project.
 Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/'>Jos Projects</a>
+- <a href='https://t.me/mahimapansilu'>Mahima Pansilu </a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/'>Jos Movie Club</a>"""
+- <a href='https://t.me/sl_mahima_official'>🚬  Movie Club</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
